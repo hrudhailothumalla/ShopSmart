@@ -3,6 +3,8 @@ Smart Shopping, Sustainable Living | PeddieHacks Hackathon 2025
 
 https://www.youtube.com/watch?v=kwQUNXyY0QY&t=9s
 
+https://devpost.com/software/smartshop-gj4q59
+
 Inspiration:
 
 Prior to ShopSmart, our team was inspired by the growing issue of food waste and the detrimental environmental consequences that come with it. According to the United States Department of Agriculture (USDA), over one-third of all available food goes uneaten through loss or waste. Consequently, this significantly contributes to greenhouse gas emissions, and worldwide food loss is a pervasive global issue. Meanwhile, many families face rising grocery costs and limited access to sustainable food options without direct opportunities to mitigate these challenges. From this, we wanted to create a solution that empowers individuals to reduce waste at home while shifting towards sustainability.
