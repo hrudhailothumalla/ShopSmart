@@ -29,6 +29,6 @@ The accomplishments we're proud of are designing a solution that integrates envi
 
 What this experience taught us is how to manage effective functionality, code efficiency, and product innovation under pressure constraints induced by time. Specifically, we deepened our understanding of how to use LLMs in real-life cases by connecting a chatbot and training it on an artificial dataset tailored for grocery shopping. Addressing critical front-end issues, such as the glitchy taskbar, we all collectively understood the importance of prioritizing usability and function over aesthetics. By addressing and viewing the discrepancies between modern grocery and inefficient online representation, we highlight our unique end-to-end approach aimed at making this experience easier. Thus, through making a product technically strong and market-ready use-wise, we learned the value of synthesizing different aspects of technology to create optimal results while also ensuring to manage our priorities in terms of efficiency and necessary functionality.
 
-What's next for ShopSmart:
+# What's next for ShopSmart:
 
 In the future and next ventures, we hope to incorporate a feature that allows us to use real-time data, price-wise, in our program. This allows us to adapt to the demands of modern inflation, while keeping data consistent in accordance with the changes that may occur in stores.
